@@ -1,0 +1,36 @@
+body<div {
+  
+}
+
+
+.vertical-menu {
+    width: fit-content;
+    
+  }
+  
+  .vertical-menu a {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #ccc;
+  }
+  
+
+ .content {
+  width: 50%;
+ }
+
+
+  
+
+  .content {
+    margin-left: 220px;
+    padding: 20px;
+  }
